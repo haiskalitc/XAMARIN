@@ -15,6 +15,9 @@ namespace BaiTap.View
 		public LoginView ()
 		{
 			InitializeComponent ();
-		}
-	}
+#if DEBUG
+            LiveReload.Init();
+#endif
+        }
+    }
 }

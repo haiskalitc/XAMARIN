@@ -128,9 +128,6 @@
       "BaiTap/1.0.0": {
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
-        "dependencies": {
-          "Xamarin.Forms": "3.0.0.561731"
-        },
         "compile": {
           "bin/placeholder/BaiTap.dll": {}
         },
@@ -266,9 +263,6 @@
       "BaiTap/1.0.0": {
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
-        "dependencies": {
-          "Xamarin.Forms": "3.0.0.561731"
-        },
         "compile": {
           "bin/placeholder/BaiTap.dll": {}
         },
@@ -404,9 +398,6 @@
       "BaiTap/1.0.0": {
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
-        "dependencies": {
-          "Xamarin.Forms": "3.0.0.561731"
-        },
         "compile": {
           "bin/placeholder/BaiTap.dll": {}
         },
@@ -542,9 +533,6 @@
       "BaiTap/1.0.0": {
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
-        "dependencies": {
-          "Xamarin.Forms": "3.0.0.561731"
-        },
         "compile": {
           "bin/placeholder/BaiTap.dll": {}
         },

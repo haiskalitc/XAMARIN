@@ -3,10 +3,26 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="BaiTap.View.LoginView">
     <ContentPage.Content>
-        <StackLayout>
-            <Label Text="Welcome to Xamarin.Forms!"
-                VerticalOptions="CenterAndExpand" 
-                HorizontalOptions="CenterAndExpand" />
+            <StackLayout Orientation="Vertical">
+                <RelativeLayout
+                    x:Name="btnSignIn">
+                    <Label 
+                        TextColor="Red"
+                        Margin="15 15 0 0"
+                        HorizontalOptions="Center"
+                        VerticalOptions="Center"
+                        Text="SIGN IN"></Label>
+                </RelativeLayout>
+                <Label Text="OR"></Label>
+               <RelativeLayout
+                    x:Name="btnSignInWithMicrosoft">
+                <Label 
+                        TextColor="Red"
+                        Margin="15 15 0 0"
+                        HorizontalOptions="Center"
+                        VerticalOptions="Center"
+                        Text="SIGN IN WITH MICROSOFT ACCOUNT"></Label>
+        </RelativeLayout>
         </StackLayout>
     </ContentPage.Content>
 </ContentPage>

@@ -1,0 +1,7 @@
+G:\XAMARIN\PROJECT\XAMARIN\BaiTap\BaiTap\BaiTap.iOS\obj\iPhoneSimulator\Debug\ibtool\_BundleResourceWithLogicalName.items
+G:\XAMARIN\PROJECT\XAMARIN\BaiTap\BaiTap\BaiTap.iOS\obj\iPhoneSimulator\Debug\actool\_PartialAppManifest.items
+G:\XAMARIN\PROJECT\XAMARIN\BaiTap\BaiTap\BaiTap.iOS\obj\iPhoneSimulator\Debug\actool\_BundleResourceWithLogicalName.items
+G:\XAMARIN\PROJECT\XAMARIN\BaiTap\BaiTap\BaiTap.iOS\obj\iPhoneSimulator\Debug\coremlc\_PartialAppManifest.items
+G:\XAMARIN\PROJECT\XAMARIN\BaiTap\BaiTap\BaiTap.iOS\obj\iPhoneSimulator\Debug\coremlc\_BundleResourceWithLogicalName.items
+G:\XAMARIN\PROJECT\XAMARIN\BaiTap\BaiTap\BaiTap.iOS\obj\iPhoneSimulator\Debug\optimized\
+G:\XAMARIN\PROJECT\XAMARIN\BaiTap\BaiTap\BaiTap.iOS\obj\iPhoneSimulator\Debug\BaiTap.iOS.csproj.CoreCompileInputs.cache

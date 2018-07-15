@@ -1,3 +1,4 @@
+using BaiTap.View;
 using System;
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
@@ -9,9 +10,12 @@ namespace BaiTap
 	{
 		public App ()
 		{
-			InitializeComponent();
+#if DEBUG
+            LiveReload.Init();
+#endif
+            InitializeComponent();
 
-			MainPage = new MainPage();
+            MainPage = new LoginView();
 		}
 
 		protected override void OnStart ()
