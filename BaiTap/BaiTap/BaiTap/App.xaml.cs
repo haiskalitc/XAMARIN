@@ -10,12 +10,12 @@ namespace BaiTap
 	{
 		public App ()
 		{
-#if DEBUG
+            #if DEBUG
             LiveReload.Init();
-#endif
+            #endif
             InitializeComponent();
 
-            MainPage = new LoginView();
+            MainPage = new NavigationPage(new LoginView());
 		}
 
 		protected override void OnStart ()

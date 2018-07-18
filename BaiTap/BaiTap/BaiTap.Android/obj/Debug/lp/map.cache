@@ -38,3 +38,16 @@ Xamarin.Forms.Platform
 Xamarin.Forms.Xaml
 Xamarin.Live
 Xamarin.Live.Reload
+netstandard
+System.Threading.Tasks
+System.Collections
+System.Globalization
+System.Diagnostics.Debug
+System.Threading
+System.Reflection.Extensions
+System.Diagnostics.TraceSource
+System.Collections.Concurrent
+System.Resources.ResourceManager
+System.Diagnostics.Tools
+System.ComponentModel
+System.Runtime.InteropServices.WindowsRuntime
