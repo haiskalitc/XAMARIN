@@ -430,6 +430,7 @@ G:\XAMARIN\PROJECT\XAMARIN\BaiTap\BaiTap\BaiTap.Android\obj\Debug\android\assets
 G:\XAMARIN\PROJECT\XAMARIN\BaiTap\BaiTap\BaiTap.Android\obj\Debug\android\assets\Xamarin.Forms.Core.pdb
 G:\XAMARIN\PROJECT\XAMARIN\BaiTap\BaiTap\BaiTap.Android\obj\Debug\android\assets\Xamarin.Forms.Xaml.pdb
 G:\XAMARIN\PROJECT\XAMARIN\BaiTap\BaiTap\BaiTap.Android\bin\Debug\BaiTap.Android.dll
+G:\XAMARIN\PROJECT\XAMARIN\BaiTap\BaiTap\BaiTap.Android\obj\Debug\linksrc\BaiTap.pdb
 G:\XAMARIN\PROJECT\XAMARIN\BaiTap\BaiTap\BaiTap.Android\obj\Debug\linksrc\BaiTap.Android.dll.mdb
 G:\XAMARIN\PROJECT\XAMARIN\BaiTap\BaiTap\BaiTap.Android\obj\Debug\linksrc\FormsViewGroup.dll.mdb
 G:\XAMARIN\PROJECT\XAMARIN\BaiTap\BaiTap\BaiTap.Android\obj\Debug\linksrc\Plugin.DeviceInfo.dll.mdb

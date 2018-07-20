@@ -9,10 +9,9 @@ G:\XAMARIN\PROJECT\XAMARIN\BaiTap\BaiTap\BaiTap\bin\Debug\netstandard2.0\BaiTap.
 G:\XAMARIN\PROJECT\XAMARIN\BaiTap\BaiTap\BaiTap\obj\Debug\netstandard2.0\BaiTap.AssemblyMetadataInputs.cache
 G:\XAMARIN\PROJECT\XAMARIN\BaiTap\BaiTap\BaiTap\obj\Debug\netstandard2.0\BaiTap.AssemblyMetadata.cs
 G:\XAMARIN\PROJECT\XAMARIN\BaiTap\BaiTap\BaiTap\obj\Debug\netstandard2.0\App.xaml.g.cs
-G:\XAMARIN\PROJECT\XAMARIN\BaiTap\BaiTap\BaiTap\obj\Debug\netstandard2.0\View\LoginView.xaml.g.cs
-G:\XAMARIN\PROJECT\XAMARIN\BaiTap\BaiTap\BaiTap\obj\Debug\netstandard2.0\View\MainView.xaml.g.cs
-G:\XAMARIN\PROJECT\XAMARIN\BaiTap\BaiTap\BaiTap\obj\Debug\netstandard2.0\View\MainViewDetail.xaml.g.cs
-G:\XAMARIN\PROJECT\XAMARIN\BaiTap\BaiTap\BaiTap\obj\Debug\netstandard2.0\View\MainViewMaster.xaml.g.cs
 G:\XAMARIN\PROJECT\XAMARIN\BaiTap\BaiTap\BaiTap\obj\Debug\netstandard2.0\XamlC.stamp
 G:\XAMARIN\PROJECT\XAMARIN\BaiTap\BaiTap\BaiTap\obj\Debug\netstandard2.0\BaiTap.csprojAssemblyReference.cache
-G:\XAMARIN\PROJECT\XAMARIN\BaiTap\BaiTap\BaiTap\obj\Debug\netstandard2.0\View\DanhSach.xaml.g.cs
+G:\XAMARIN\PROJECT\XAMARIN\BaiTap\BaiTap\BaiTap\obj\Debug\netstandard2.0\Views\LoginView.xaml.g.cs
+G:\XAMARIN\PROJECT\XAMARIN\BaiTap\BaiTap\BaiTap\obj\Debug\netstandard2.0\Views\TrangChu.xaml.g.cs
+G:\XAMARIN\PROJECT\XAMARIN\BaiTap\BaiTap\BaiTap\obj\Debug\netstandard2.0\Views\TrangChuDetail.xaml.g.cs
+G:\XAMARIN\PROJECT\XAMARIN\BaiTap\BaiTap\BaiTap\obj\Debug\netstandard2.0\Views\TrangChuMaster.xaml.g.cs

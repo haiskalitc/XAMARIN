@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<views:ViewBase
+    xmlns:views="clr-namespace:BaiTap.Views"
+    xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="BaiTap.Views.LoginView">
+    <ContentPage.Content>
+        <StackLayout x:Name="stackLayOut">
+            <Entry Placeholder="Username" Text="{Binding Username}"></Entry>
+            <Entry Placeholder="Username" Text="{Binding Password}"></Entry>
+            <Button Text="LOGIN" BackgroundColor="DarkSlateBlue" Command="{Binding LoginCommand}" CommandParameter="Login"></Button>
+            <Button Text="Login with Facebook" Command="{Binding LoginCommand}" CommandParameter="Facebook"></Button>
+            <Button Text="Login with Google" Command="{Binding LoginCommand}" CommandParameter="Google"></Button>
+            <Button Text="Register new account" Command="{Binding LoginCommand}" CommandParameter="Account"></Button>
+        </StackLayout>
+    </ContentPage.Content>
+</views:ViewBase>

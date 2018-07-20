@@ -7,9 +7,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BaiTap.Android", "BaiTap\Ba
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BaiTap.iOS", "BaiTap\BaiTap.iOS\BaiTap.iOS.csproj", "{1FA19FC9-F88B-465A-AF5D-8B11C6D24887}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BaiTap", "BaiTap\BaiTap\BaiTap.csproj", "{2E23B89E-6213-4D46-8D7F-5C8D708F4A4B}"
-EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Share Code", "Share Code", "{593BA93B-6650-41FA-8B92-D2910035B889}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BaiTap", "BaiTap\BaiTap\BaiTap.csproj", "{2E23B89E-6213-4D46-8D7F-5C8D708F4A4B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -138,9 +136,6 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
-	EndGlobalSection
-	GlobalSection(NestedProjects) = preSolution
-		{2E23B89E-6213-4D46-8D7F-5C8D708F4A4B} = {593BA93B-6650-41FA-8B92-D2910035B889}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {E8A40D1A-4FA7-49BA-95A4-CDC7E711A9D1}
